@@ -1,0 +1,15 @@
+.photos{
+    justify-content: center;
+    text-align: center;
+}
+.slide{
+    height: 60%;
+    width: 70%;
+    margin: 0% auto 0% auto;
+}
+.heading{
+    display: block;
+}
+.head{
+    text-align: center;
+}
