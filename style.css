@@ -1,6 +1,10 @@
 *{
     font-family: 'Montserrat', sans-serif;
 }
+body{
+    background: radial-gradient(rgb(222, 231, 240),#0042AA);
+    color: white;
+}
 .photos{
     justify-content: center;
     text-align: center;
@@ -34,6 +38,10 @@
 }
 .courseInfoHead{
     margin-bottom: 2%;
+}
+
+.bRad{
+    border-radius: 3%;
 }
 
 .contact{
