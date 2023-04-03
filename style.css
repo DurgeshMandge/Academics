@@ -1,3 +1,6 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
 .photos{
     justify-content: center;
     text-align: center;
@@ -8,8 +11,31 @@
     margin: 0% auto 0% auto;
 }
 .heading{
+    margin: 3%;
     display: block;
+    font-family: 'Merriweather', serif;
 }
 .head{
+    justify-content: center;
+    text-align: center;
+}
+.firstHeading{
+    margin: 4% auto;
+    font-family: 'Alkatra', cursive;
+}
+.description{
+    /* justify-content: center; */
+    text-align: center;
+}
+.skill{
+    display: inline;
+    text-align: center;
+    margin: 2%;
+}
+.courseInfoHead{
+    margin-bottom: 2%;
+}
+
+.contact{
     text-align: center;
 }
